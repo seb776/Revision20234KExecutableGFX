@@ -4,7 +4,7 @@
 #define DESPERATE 0
 
 // releasing at Revision? here's a handy toggle for some compo-safe config presets
-#define REVISION_RULESET 0
+#define REVISION_RULESET 1
 
 
 #if _DEBUG
@@ -48,7 +48,7 @@
 	#define CANVAS_WIDTH 3840
 	#define CANVAS_HEIGHT 2160
 
-	#define RENDER_EXACT_SAMPLES 1024
+	#define RENDER_EXACT_SAMPLES 256
 
 	// which formats to save
 	#define CAPTURE_SAVE_PNG 1
