@@ -1,3 +1,11 @@
+My first entry in this compo : 4K Executable Graphics @Revision2023
+
+Thank you Luna for this amazing tool =D
+![](docs/ea09.324255.png)
+[demozoo](https://demozoo.org/graphics/322467/)
+
+
+
 # Blossom 🌸
 
 Blossom is a small framework for creating 4K Executable Graphics artworks for the [demoscene](https://en.wikipedia.org/wiki/Demoscene).
